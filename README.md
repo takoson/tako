@@ -1,2 +1,0 @@
-# tako
-Created with CodeSandbox
